@@ -104,7 +104,7 @@ body {
     text-align: center;
     color: hsl(270, 7%, 64%);
     line-height: 1.75;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     max-width: 305px;
     margin: 0 auto;
   }
@@ -116,14 +116,14 @@ body {
     }
     .section__description {
       text-align: left;
-      font-size: 1.4rem;
+      font-size: 1.6rem;
       line-height: 1.75;
-      max-width: 400px;
+      max-width: 450px;
     }
 
     .main__section {
         position: absolute;
-        left: 58.5%;
+        left: 55.5%;
     } 
 
     .phone {
